@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## こん にちは
+なにか書いてみたいわね
 <!--
 **Valley-3333/Valley-3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
