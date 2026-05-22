@@ -42,10 +42,21 @@ HoI4のMod制作を中心に活動*したい*です。
 
 ---
 
-## 🛠️ Skills & Languages
+## 📊 GitHub Analytics
 
-サイトの「スキルグループ」を再現し、3列のテーブルでグリッド配置しています。
-※**濃い紺色バッジ（#1a365d）**が慣れているもの（Comfortable / Familiar）、**薄い水色調バッジ（#f0f4f8）**が学習中（Learning）です。
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Valley-3333&show_icons=true&theme=dark&background=1a365d&count_private=true&hide_rank=true" alt="Valley's GitHub Stats" height="150" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valley-3333&theme=dark&background=1a365d" alt="Valley's GitHub Streak" height="150" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Valley-3333&layout=compact&theme=dark&background=1a365d&count_private=true" alt="Valley's Top Langs" height="150" />
+</p>
+
+---
+
+## 🛠️ Skills & Languages
 
 | 💻 Programming | 🌐 Natural Languages | 🧰 Tools & Environment |
 | :--- | :--- | :--- |
