@@ -66,19 +66,19 @@ HoI4のMod制作を中心に活動*したい*です。
 
 ## 📂 HoI4 Mod Projects
 
-* **[Bakasekaitizu MOD](https://github.com/BSM-HOI4/HOI4-Bakasekaitizu-MOD)** <img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right">
+* **[Bakasekaitizu MOD](https://github.com/BSM-HOI4/HOI4-Bakasekaitizu-MOD)** <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2926389173" target="_blank"><img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right"></a>
     <br><small>バカ世界地図MOD</small>
 
-* **[7seacountry.mod-unofficial](https://github.com/Valley-3333/7seacountry.mod-unofficial)** <img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right">
+* **[7seacountry.mod-unofficial](https://github.com/Valley-3333/7seacountry.mod-unofficial)** <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3245829154" target="_blank"><img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right"></a>
     <br><small>しちかいよう 非公式MOD</small>
 
-* **hoi4-IL-MONDO-STRANO-unofficial** <img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right">
+* **[hoi4-IL-MONDO-STRANO-unofficial](https://github.com/Valley-3333/hoi4-IL-MONDO-STRANO-unofficial)** <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3224767397" target="_blank"><img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right"></a>
     <br><small>もんどすGUI Mod</small>
 
 * **[hoi4dualleaders_bba](https://github.com/Valley-3333/hoi4dualleaders_bba)** <img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right">
     <br><small>Hoi4デュアルリーダー(BBA対応) - 他のModのみに最新版対応をのっけてしまってます(泣)</small>
 
-* **God Field.mod** <img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right">
+* **God Field.mod** <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3307764527" target="_blank"><img src="https://img.shields.io/badge/Steam_Workshop-1b2838?style=flat-square&logo=steam&logoColor=white" align="right"></a>
     <br><small>ゴッドフィールドMOD</small>
 
 <br>
