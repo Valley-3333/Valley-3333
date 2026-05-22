@@ -39,19 +39,18 @@
 DiscordやTwitter(X)等に基本的に生息しています。
 HoI4のMod制作を中心に活動*したい*です。
 なにか楽しそうなことを見つけたら、やるべき事をほっぽりだして、楽しくやりたいなと思っています。
-
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Valley-3333&show_icons=true&theme=dark&background=1a365d&count_private=true&hide_rank=true" alt="Valley's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api?username=Valley-3333&show_icons=true&theme=dark&background=1a365d&count_private=true&hide_rank=true" alt="GitHub Stats" height="150" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Valley-3333&theme=dark&background=1a365d" alt="Valley's GitHub Streak" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Valley-3333&theme=dark&background=1a365d" alt="GitHub Streak" height="150" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Valley-3333&layout=compact&theme=dark&background=1a365d&count_private=true" alt="Valley's Top Langs" height="150" />
+  <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs?username=Valley-3333&layout=donut&theme=dark&background=1a365d&count_private=true" alt="Top Langs" height="180" />
 </p>
 
 ---
