@@ -3,6 +3,7 @@
 <p align="center">
   <a href="https://valley-3333.github.io/index.html">Home</a> │ 
   <a href="https://valley-3333.github.io/other.html">Other</a> │ 
+  <a href="https://valley-3333.github.io/blog.html">Blog</a> │ 
   <a href="https://valley-3333.github.io/links.html">Links</a> │ 
   <a href="https://valley-3333.github.io/gallery.html">Gallery</a>
 </p>
