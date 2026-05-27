@@ -31,6 +31,7 @@
   <a href="https://www.youtube.com/@valley3333" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-1a365d?style=flat-square&logo=youtube&logoColor=white" alt="YouTube">
   </a>
+    <a href="https://gijutsusharin.li"><img src="https://gijutsusharin.li/badge.svg" alt="技術者倫理|遵守せず" height="20"></a>
 </p>
 
 ---
